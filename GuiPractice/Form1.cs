@@ -13,6 +13,11 @@ namespace GuiPractice
         private void Form1_Load(object sender, EventArgs e)
         {
             Console.WriteLine("hello! one more modification");
+            Console.WriteLine("hello! one more modification");
+            Console.WriteLine("hello! one more modification");
+            Console.WriteLine("hello! one more modification");
+
+
         }
     }
 }
